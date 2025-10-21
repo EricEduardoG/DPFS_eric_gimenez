@@ -1,6 +1,6 @@
 # **APP E G **
 
- **Esta aplicación se diseñará para ofrecer variedad de servicios y productos en un solo lugar.**
+ **Diseñada para ofrecer variedad de servicios y productos en un solo lugar de una manera rapida y sencilla e intuitiva.**
 
 # A través de este sitio el usuario podrá Encargar productos y/o Encomendar servicios:
 
@@ -43,12 +43,3 @@
 
     https://www.uber.com 
 
-
-
-
-    
-
-
-Agregar a GitHub (TO DO)
-
-git remote add origin https://github.com/EricEduardoG/DPFS_eric_gimenez.git
